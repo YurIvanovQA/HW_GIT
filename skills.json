@@ -1,4 +1,6 @@
 {
 	"softskills": "god level",
-	"hard_skills": "GitHab"
-}
+	"hard_skills": [
+		["GitHab"],
+		["Postman"]
+]}
